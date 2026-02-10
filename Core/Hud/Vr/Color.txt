@@ -1,0 +1,4 @@
+// CHANGE HERE \\ rgb only!
+LEFTHAND: rgb(0,0,255) -- or rgb(0,0,1)
+RIGHTHAND: rgb(0,0,255) -- or rgb(0,0,1)
+LINECOL: rgb(255,255,255) -- or rgb(1,1,1)
